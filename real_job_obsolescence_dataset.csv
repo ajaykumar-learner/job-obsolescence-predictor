@@ -1,0 +1,11 @@
+job_title,description,projected_growth,automatable,skills_required
+Data Entry Clerk,Enters data manually into digital systems and databases.,-8,0.9,"Excel, Python, Automation"
+Telemarketer,Contacts potential customers by telephone to promote products.,-10,0.85,"CRM Systems, Communication, Sales Tactics"
+Machine Learning Engineer,Designs and develops machine learning systems and models.,25,0.1,"Python, TensorFlow, PyTorch, Deep Learning"
+Cashier,Handles customer transactions at the point of sale.,-5,0.95,"Customer Service, POS Systems, Basic Math"
+Software Developer,Writes and maintains software applications.,20,0.2,"Python, Git, System Design, Agile Development"
+Cybersecurity Analyst,Protects digital infrastructure from cyber threats.,30,0.1,"Network Security, Ethical Hacking, Compliance"
+AI Research Scientist,Conducts research in artificial intelligence and algorithms.,35,0.05,"Machine Learning, Research, Advanced Math"
+Truck Driver,Drives trucks to transport goods over long distances.,-2,0.7,"Logistics, Route Planning, Vehicle Maintenance"
+Warehouse Worker,Packages and moves inventory in a warehouse setting.,-1,0.8,"Inventory Management, Forklift Operation, Safety"
+Administrative Assistant,"Provides administrative support, including scheduling and communication.",-3,0.6,"Office Suite, Communication, Scheduling"
