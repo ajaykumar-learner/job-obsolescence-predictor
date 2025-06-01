@@ -9,7 +9,7 @@ import feedparser
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("real_job_obsolesence_predictor1.csv")
+    return pd.read_csv("real_job_obsolescence_dataset.csv")
 
 df = load_data()
 
